@@ -68,8 +68,10 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: 技术
 category_map:
+   论文: paper
+   技术: tech
 tag_map:
 
 # Metadata elements
